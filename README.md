@@ -20,7 +20,7 @@ Investigate cityinthe.cloud using public WHOIS records to identify its registrar
 ### Step 1: Review the investigation questions
 The WHOIS challenge asked for five details about cityinthe.cloud: its registrar, initial registration date, registry domain ID, TLD, and the organization managing that TLD.
 
-![WHOIS challenge questions](screenshots/01-challenge.jpeg)
+![WHOIS challenge questions](01-challenge.jpeg)
 
 *Ref 1: WHOIS challenge instructions and the five investigation questions.*
 
@@ -31,7 +31,7 @@ I ran the following command in Kali Linux to retrieve the domain's public regist
 whois cityinthe.cloud
 ```
 
-![WHOIS results for cityinthe.cloud](screenshots/02-whois-results.jpeg)
+![WHOIS results for cityinthe.cloud](02-whois-results.jpeg)
 
 *Ref 2: Terminal output showing the domain's registrar, creation date, registry domain ID, and name servers.*
 
